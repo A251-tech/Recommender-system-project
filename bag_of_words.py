@@ -15,7 +15,7 @@ nltk.download('wordnet')
 nltk.download('omw-1.4')
 '''
 
-df=pd.read_csv(r"C:\Users\KHUSHI CHAUHAN\Documents\project_minor\car_ad_new_1.csv")
+df=pd.read_csv(r"C:\Users\ABHINAV CHAUHAN\Documents\project_minor\car_ad_new_1.csv")
 df
 def clean_data(text):
     text = re.sub(r'[^ \nA-Za-z0-9À-ÖØ-öø-ÿ/]+', '', text)
