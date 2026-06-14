@@ -3,7 +3,7 @@ import csv
 import array as ar
 import numpy as np
 import pandas as pd
-df = pd.read_csv(r"C:\Users\KHUSHI CHAUHAN\Downloads\Book_2.csv")
+df = pd.read_csv(r"C:\Users\ABHINAV CHAUHAN\Downloads\Book_2.csv")
 df.head(2)
 df.shape
 from sklearn.neighbors import NearestNeighbors
