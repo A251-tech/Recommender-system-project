@@ -1,0 +1,20 @@
+car,price,body,mileage,engV,engType,registration,year,model,drive,id,search
+Ford34,15500,crossover,68,2.5,Gas,yes,2010,Kuga,full,,I want to buy  the best car.
+Mercedes-Benz,20500,sedan,173,1.8,Gas,yes,2011,E-Class,rear,,is there a vehicle with engine type of petrol?
+Mercedes-Benz,35000,other,135,5.5,Petrol,yes,2008,CL 550,rear,,how much do 2 cars cost?
+Mercedes-Benz,17800,van,162,1.8,Diesel,yes,2012,B 180,front,,"can I get this car for 100,000?"
+Mercedes-Benz,33000,vagon,91,NA,Other,yes,2013,E-Class,,,hello
+Nissan,16600,crossover,83,2,Petrol,yes,2013,X-Trail,full,,best car
+Honda,6500,sedan,199,2,Petrol,yes,2003,Accord,front,,so expensive!
+Renault,10500,vagon,185,1.5,Diesel,yes,2011,Megane,front,,185 milage?
+Mercedes-Benz,21500,sedan,146,1.8,Gas,yes,2012,E-Class,rear,,is there a model with engine type of petrol?
+Mercedes-Benz,22700,sedan,125,2.2,Diesel,yes,2010,E-Class,rear,,how much this cars costs?
+Nissan,20447.154,crossover,0,1.2,Petrol,yes,2016,Qashqai,front,,is electric model available?
+Mercedes-Benz,20400,sedan,190,1.8,Gas,yes,2011,E-Class,rear,,is there some discount on 2 cars?
+Mercedes-Benz,22500,sedan,164,1.8,Gas,yes,2012,E-Class,rear,,is there a model with engine type of petrol?
+BMW,4700,sedan,200,NA,Petrol,yes,1996,316,rear,,how much this car costs?
+Mercedes-Benz,21500,sedan,159,1.8,Gas,yes,2012,E-Class,rear,,is electric model available?
+BMW,19999,sedan,290,4.8,Petrol,yes,2006,750,rear,,is there some discount on 2 cars?
+BMW,129222,sedan,2,5,Petrol,yes,2016,750,full,, how much does this wagons cost?
+Mercedes-Benz,99999,crossover,0,3,Petrol,yes,2016,GLE-Class,full,,how many tires this car have 
+Nissan,16600,crossover,83,2,Petrol,yes,2013,X-Trail,full,,"can I get this car for 100,000?"
